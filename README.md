@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Aya Nadt\y from Egypt<br><br>- 🔭 I’m working as Flutter Developer<br>- 🤝 I’m looking for help with Internship Recommendation<br>- 👯 I’m looking to collaborate on GSoC<br>- 📚 I'm currently learning Database Management<br>- ⚡ In my free time I practice Problem Solving<br>- Ask me about Programming, Flutter Development<br>- Reach out to me at ayanady22193@gmail.com
+I'm Aya Nady from Egypt<br><br>- 🔭 I’m working as Flutter Developer<br>- 🤝 I’m looking for help with Internship Recommendation<br>- 👯 I’m looking to collaborate on GSoC<br>- 📚 I'm currently learning Database Management<br>- ⚡ In my free time I practice Problem Solving<br>- Ask me about Programming, Flutter Development<br>- Reach out to me at ayanady22193@gmail.com
 
 
 ## 🌐 Socials:
